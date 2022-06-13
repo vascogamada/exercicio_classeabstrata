@@ -18,7 +18,7 @@ public abstract class Funcionario
 	
 	public void calcularBonificacao()
 	{
-		 valorBonificacao = salarioFinal * 1.05;
+		 valorBonificacao = salarioFinal * 0.05;
 	}
 	
 	
